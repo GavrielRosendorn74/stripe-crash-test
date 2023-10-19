@@ -72,4 +72,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 # stripe-crash-test
-# stripe-crash-test
+
+Search "YOUR_KEY" string in this project and change for your own keys to make it work. ;)
